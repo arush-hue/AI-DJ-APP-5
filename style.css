@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.notes
+{
+    font-size: 15px;
+    color: brown;
+}
+.play_button
+{
+    font-size: 25px;
+}
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+}
+.div_footer
+{
+    font-size: 23px;
+    color: black;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align:center;
+    line-height: 3;
+    background-color: white;
+}
